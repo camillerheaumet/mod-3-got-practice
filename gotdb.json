@@ -3,57 +3,150 @@
     {
       "id": 1,
       "name": "Rickon Stark",
-      "img": "https://en.wikipedia.org/wiki/Rickon_Stark#/media/File:Rickon_Stark-Art_Parkinson.jpg",
-      "size": 7
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/Rickon_Stark-Art_Parkinson.jpg",
+      "appetite": 7,
+      "status": 24,
+      "foodList": [
+        {
+          "id": 1,
+          "name": "Pidgeon pie",
+          "sustanance": 12
+        },
+        {
+          "id": 1,
+          "name": "Pidgeon pie",
+          "sustanance": 12
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Arya Stark",
-      "img": "https://en.wikipedia.org/wiki/Arya_Stark#/media/File:Arya_Stark-Maisie_Williams.jpg",
-      "size": 10
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Arya_Stark-Maisie_Williams.jpg",
+      "appetite": 10,
+      "status": 15,
+      "foodList": [
+        {
+          "id": 2,
+          "name": "Lemon cake",
+          "sustanance": 5
+        },
+        {
+          "id": 2,
+          "name": "Lemon cake",
+          "sustanance": 5
+        },
+        {
+          "id": 2,
+          "name": "Lemon cake",
+          "sustanance": 5
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Sansa Stark",
-      "img": "https://en.wikipedia.org/wiki/Sansa_Stark#/media/File:SophieTurnerasSansaStark.jpg",
-      "size": 15
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/74/SophieTurnerasSansaStark.jpg",
+      "appetite": 15,
+      "status": 5,
+      "foodList": [
+        {
+          "id": 1,
+          "name": "Pidgeon pie",
+          "sustanance": 12
+        },
+        {
+          "id": 2,
+          "name": "Lemon cake",
+          "sustanance": 5
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Rob Stark",
-      "img": "https://en.wikipedia.org/wiki/Robb_Stark#/media/File:Robb_Stark-Richard_Madden.jpg",
-      "size": 20
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/ce/Robb_Stark-Richard_Madden.jpg",
+      "appetite": 20
     },
     {
       "id": 5,
       "name": "Jon Snow",
-      "img": "https://en.wikipedia.org/wiki/Jon_Snow_(character)#/media/File:Jon_Snow-Kit_Harington.jpg",
-      "size": 20
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Jon_Snow-Kit_Harington.jpg",
+      "appetite": 20,
+      "status": 17,
+      "foodList": [
+        {
+          "id": 6,
+          "name": "Fig",
+          "sustanance": 3
+        },
+        {
+          "id": 5,
+          "name": "Chicken",
+          "sustanance": 12
+        },
+        {
+          "id": 3,
+          "name": "Onion soup",
+          "sustanance": 7
+        },
+        {
+          "id": 2,
+          "name": "Lemon cake",
+          "sustanance": 5
+        },
+        {
+          "id": 1,
+          "name": "Pidgeon pie",
+          "sustanance": 12
+        }
+      ]
     },
     {
       "id": 6,
       "name": "Brandon Stark",
-      "img": "https://en.wikipedia.org/wiki/Bran_Stark#/media/File:Bran_Stark_-_Isaac_Hempstead-Wright.jpeg",
-      "appetite": 10
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Bran_Stark_-_Isaac_Hempstead-Wright.jpeg",
+      "appetite": 10,
+      "status": 12,
+      "foodList": [
+        {
+          "id": 1,
+          "name": "Pidgeon pie",
+          "sustanance": 12
+        }
+      ]
     }
   ],
   "foods": [
-    {"id": 1,
-    "name": "Pidgeon pie",
-    "sustanance": 12},
-    {"id": 1,
-    "name": "Lemon cake",
-    "sustanance": 5},
-    {"id": 1,
-    "name": "Onion soup",
-    "sustanance": 7},
-    {"id": 1,
-    "name": "Hotpie stew",
-    "sustanance": 18},
-    {"id": 1,
-    "name": "Chicken",
-    "sustanance": 12},
-    {"id": 1,
-    "name": "Fig",
-    "sustanance": 3}
-]}
+    {
+      "id": 1,
+      "name": "Pidgeon pie",
+      "sustanance": 12
+    },
+    {
+      "id": 2,
+      "name": "Lemon cake",
+      "sustanance": 5
+    },
+    {
+      "id": 3,
+      "name": "Onion soup",
+      "sustanance": 7
+    },
+    {
+      "id": 4,
+      "name": "Hotpie stew",
+      "sustanance": 18
+    },
+    {
+      "id": 5,
+      "name": "Chicken",
+      "sustanance": 12
+    },
+    {
+      "id": 6,
+      "name": "Fig",
+      "sustanance": 3
+    }
+  ]
+}
